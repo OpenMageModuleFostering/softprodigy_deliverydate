@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/SoftProdigy_DeliveryDate",
+    "name": "OpenMageModuleFostering\/SoftProdigy_DeliveryDate",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "This Extension helps to keep a track of shipping and delivery dates of products for e-commerce stores.",
     "authors": [
-    {
-        "name": "SoftProdigyIN",
-        "email": "magento@softprodigy.com"
-    }
-],
+        {
+            "name": "SoftProdigyIN",
+            "email": "magento@softprodigy.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
